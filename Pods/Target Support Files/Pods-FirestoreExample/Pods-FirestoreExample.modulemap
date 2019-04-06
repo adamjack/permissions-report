@@ -1,0 +1,6 @@
+framework module Pods_FirestoreExample {
+  umbrella header "Pods-FirestoreExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
